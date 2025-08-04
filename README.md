@@ -14,8 +14,6 @@
 - **NumPy** for Scientific Computing  
 
 ---
----
-
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahesh0842&theme=radical&margin-w=5&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
