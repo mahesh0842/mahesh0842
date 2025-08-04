@@ -1,6 +1,9 @@
 <div align="center">
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00F7B0&center=true&vCenter=true&width=435&lines=Exploring+new+technologies+everyday;Turning+ideas+into+functional+code;Open+to+collaborations+%26+learning+opportunities)](https://git.io/typing-svg)
+  
 </div>
+
 
 # 💫 Hi, I'm Mahesh Kumar Yadav  
 ### Passionate Python Developer | FastAPI Enthusiast | Web & GUI Programmer  
