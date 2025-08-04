@@ -1,50 +1,28 @@
-# 💫 Hi 👋, I'm Mahesh Kumar Yadav  
-**A passionate Python Developer || FastAPI Enthusiast || Web & GUI Programmer from India**
+<h1 align="center">Hi 👋, I'm Mahesh Kumar Yadav</h1>
+<h3 align="center">A passionate Python Developer || FastAPI Enthusiast || Web & GUI Programmer from India</h3>
 
-📩 Email Me 👉 ✉️ **mahesh767000@gmail.com** For Collaboration, Projects, or Any Tech Support! 😊
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh0842&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh0842" /> </p>
 
-- 🔭 **I’m currently working on:** Python GUI Apps using Tkinter and API-based projects with FastAPI  
-- 🌱 **I’m currently learning:** FastAPI Advanced Concepts and Web Deployment  
-- 👯 **I’m looking to collaborate on:** Python Automation Tools, Full Stack Projects  
-- 🤔 **I’m looking for help with:** FastAPI security, async programming  
-- 💬 **Ask me about:** Python, FastAPI, Tkinter, SQL, Web Dev  
-- 📫 **How to reach me:** **mahesh767000@gmail.com**  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I debug with snacks and solve bugs with chai! ☕🐞  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh0842" alt="mahesh0842" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/https//twittwer.com" target="blank"><img src="https://img.shields.io/twitter/follow/https//twittwer.com?logo=twitter&style=for-the-badge" alt="https//twittwer.com" /></a> </p>
 
-## 🔗 Let's Connect & Learn Together
+- 🌱 I’m currently learning **Tkinter**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Mahesh%20Yadav-181717?logo=github&logoColor=white)](https://github.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:mahesh767000@gmail.com)  
+- 👨‍💻 All of my projects are available at [https://mahesh0842.github.io/PF/](https://mahesh0842.github.io/PF/)
 
----
+- 📫 How to reach me **mahesh767000@gmail.com**
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/Tkinter-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https//twittwer.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https//twittwer.com" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahesh767000&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh767000&theme=radical&hide_border=false&layout=compact)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahesh767000&theme=radical&hide_border=false)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh0842&show_icons=true&locale=en&layout=compact" alt="mahesh0842" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh0842&show_icons=true&locale=en" alt="mahesh0842" /></p>
 
-### ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<!-- Made with ❤️ by Mahesh Kumar Yadav -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh0842&" alt="mahesh0842" /></p>
