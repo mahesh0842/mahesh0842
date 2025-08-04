@@ -103,5 +103,30 @@
 </p>
 
 ---
-
+graph LR
+    Aug[August] --> Sep[September]
+    Sep --> Oct[October]
+    Oct --> Nov[November]
+    Nov --> Dec[December]
+    Dec --> Jan[January]
+    Jan --> Feb[February]
+    Feb --> Mar[March]
+    Mar --> Apr[April]
+    Apr --> May[May]
+    May --> Jun[June]
+    Jun --> Jul[July]
+    Jul --> Aug
+    
+    style Aug fill:#00C7B7,stroke:#333
+    style Sep fill:#00C7B7,stroke:#333
+    style Oct fill:#00C7B7,stroke:#333
+    style Nov fill:#00C7B7,stroke:#333
+    style Dec fill:#00C7B7,stroke:#333
+    style Jan fill:#00C7B7,stroke:#333
+    style Feb fill:#00C7B7,stroke:#333
+    style Mar fill:#00C7B7,stroke:#333
+    style Apr fill:#00C7B7,stroke:#333
+    style May fill:#00C7B7,stroke:#333
+    style Jun fill:#00C7B7,stroke:#333
+    style Jul fill:#00C7B7,stroke:#333
 
