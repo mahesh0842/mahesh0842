@@ -1,11 +1,3 @@
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahesh0842&theme=radical&margin-w=5&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
-
----
 
 # 💫 Hi, I'm Mahesh Kumar Yadav  
 ### Passionate Python Developer | FastAPI Enthusiast | Web & GUI Programmer  
@@ -22,18 +14,12 @@
 - **NumPy** for Scientific Computing  
 
 ---
-
-## 🚀 My Projects & Resources  
-<div align="center">
-
-| Portfolio | Projects | Contact |
-|:---:|:---:|:---:|
-| [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahesh0842.github.io/PF/) | [![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahesh0842?tab=repositories) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahesh767000@gmail.com) |
-
-</div>
-
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahesh0842&theme=radical&margin-w=5&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</p>
 ## 🛠️ Tech Stack  
 
 ### 💻 Core Development  
@@ -71,6 +57,7 @@
 
 ---
 
+
 ## 📊 GitHub Analytics  
 <div align="center">
 
@@ -79,6 +66,21 @@
 | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh0842&layout=compact&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahesh0842&show_icons=true&theme=radical" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh0842&theme=radical" /> |
 
 </div>
+------
+
+---
+
+## 🚀 My Projects & Resources  
+<div align="center">
+
+| Portfolio | Projects | Contact |
+|:---:|:---:|:---:|
+| [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahesh0842.github.io/PF/) | [![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahesh0842?tab=repositories) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahesh767000@gmail.com) |
+
+</div>
+
+---
+-----
 
 
 
