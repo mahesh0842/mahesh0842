@@ -1,3 +1,12 @@
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahesh0842&theme=radical&margin-w=5&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</p>
+
+---
+
 # 💫 Hi, I'm Mahesh Kumar Yadav  
 ### Passionate Python Developer | FastAPI Enthusiast | Web & GUI Programmer  
 
@@ -71,14 +80,7 @@
 
 </div>
 
----
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahesh0842&theme=radical&margin-w=5&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🤝 Let's Connect & Learn Together  
 <p align="center">
