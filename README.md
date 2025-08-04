@@ -70,7 +70,6 @@
 | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh0842&layout=compact&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahesh0842&show_icons=true&theme=radical" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh0842&theme=radical" /> |
 
 </div>
----
 
 ## 🚀 My Projects & Resources  
 <div align="center">
@@ -82,10 +81,6 @@
 </div>
 
 ---
------
-
-
-
 ## 🤝 Let's Connect & Learn Together  
 <p align="center">
   <a href="https://www.linkedin.com/in/mahesh-yadav-334ba916a/">
@@ -103,30 +98,5 @@
 </p>
 
 ---
-graph LR
-    Aug[August] --> Sep[September]
-    Sep --> Oct[October]
-    Oct --> Nov[November]
-    Nov --> Dec[December]
-    Dec --> Jan[January]
-    Jan --> Feb[February]
-    Feb --> Mar[March]
-    Mar --> Apr[April]
-    Apr --> May[May]
-    May --> Jun[June]
-    Jun --> Jul[July]
-    Jul --> Aug
-    
-    style Aug fill:#00C7B7,stroke:#333
-    style Sep fill:#00C7B7,stroke:#333
-    style Oct fill:#00C7B7,stroke:#333
-    style Nov fill:#00C7B7,stroke:#333
-    style Dec fill:#00C7B7,stroke:#333
-    style Jan fill:#00C7B7,stroke:#333
-    style Feb fill:#00C7B7,stroke:#333
-    style Mar fill:#00C7B7,stroke:#333
-    style Apr fill:#00C7B7,stroke:#333
-    style May fill:#00C7B7,stroke:#333
-    style Jun fill:#00C7B7,stroke:#333
-    style Jul fill:#00C7B7,stroke:#333
+
 
