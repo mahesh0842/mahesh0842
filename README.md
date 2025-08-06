@@ -65,10 +65,12 @@
 ## 📊 GitHub Analytics  
 <div align="center">
 
-| Top Languages | GitHub Stats | Streak Stats |
+| Top Languages 
 |:---:|:---:|:---:|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh0842&layout=compact&theme=radical" /> |
+ GitHub Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=mahesh0842&show_icons=true&theme=radical" /> | 
+Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh0842&theme=radical" /> |
 
 </div>
