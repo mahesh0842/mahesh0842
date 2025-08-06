@@ -67,7 +67,9 @@
 
 | Top Languages | GitHub Stats | Streak Stats |
 |:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh0842&layout=compact&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahesh0842&show_icons=true&theme=radical" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh0842&theme=radical" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh0842&layout=compact&theme=radical" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=mahesh0842&show_icons=true&theme=radical" /> | 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh0842&theme=radical" /> |
 
 </div>
 
